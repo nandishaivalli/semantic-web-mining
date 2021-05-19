@@ -1,0 +1,9 @@
+.vscode
+etc
+Include
+Lib
+Scripts
+share
+pyvenv
+__pycache__
+*.cfg
