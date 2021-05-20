@@ -41,7 +41,7 @@ def googlesearch(query):
         csvRows.append(url)
         #csvRows.append((re.split(":(?=http)",link["href"].replace("/url?q=",""))))
         #csvRows.append(link['href'].split("&")[0])
-
+    
     #write the links to csv file
 
     # csvfields = ["links"]

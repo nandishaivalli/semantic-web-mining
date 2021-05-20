@@ -7,7 +7,7 @@ class getLinks(scrapy.Spider):
     #start_urls = googlesearch(query=q)
     
     def start_requests(self):
-        self.q = "how to install python in windows"
+        self.q = "what is semantic web mining"
         urls =  googlesearch(query=self.q)
         for url in urls:
             yield scrapy.Request(url=url,callback=self.parse)

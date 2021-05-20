@@ -1,15 +1,9 @@
 [
-{"url": "https://realpython.com/installing-python/", "title": ["Python 3 Installation & Setup Guide \u2013 Real Python"], "h1": ["Python 3 Installation Setup Guide"]},
-{"url": "https://docs.python.org/3/using/windows.html", "title": ["3. Using Python on Windows \u2014 Python 3.9.5 documentation"], "h1": ["Using Python on Windows"]},
-{"url": "https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/python.html", "title": ["Python Download and Installation Instructions"], "h1": ["Python Download and Installation Instructions"]},
-{"url": "https://www.python.org/downloads/", "title": ["Download Python | Python.org"], "h1": ["Download the latest version for Mac OS X", "Download the latest source release", "Download the latest version for Windows", "Download the latest version of Python"]},
-{"url": "https://www.python.org/downloads/release/python-392/", "title": ["Python Release Python 3.9.2 | Python.org"], "h1": ["Python 3 9 2", "Files"]},
-{"url": "https://docs.microsoft.com/en-us/windows/python/beginners", "title": ["Python on Windows 10 for beginners | Microsoft Docs"], "h1": ["Get started using Python on Windows for beginners"]},
-{"url": "https://www.python.org/downloads/release/python-390/", "title": ["Python Release Python 3.9.0 | Python.org"], "h1": ["Python 3 9 0", "Files"]},
-{"url": "https://phoenixnap.com/kb/how-to-install-python-3-windows", "title": ["How To Install Python 3 on Windows {Quickstart}", "twitter", "facebook", "linkedin", "chevron-circle-up", "youtube", "instagram"], "h1": []},
-{"url": "https://www.python.org/downloads/source/", "title": ["\nPython Source Releases | Python.org\n"], "h1": ["Python Source Releases"]},
-{"url": "https://www.python.org/downloads/windows/", "title": ["\nPython Releases for Windows | Python.org\n"], "h1": ["Python Releases for Windows"]},
-{"url": "https://opensource.com/article/19/8/how-install-python-windows", "title": ["How to install Python on Windows | Opensource.com"], "h1": ["How to install Python on Windows Opensource com", "How to install Python on Windows"]},
-{"url": "https://www.knowledgehut.com/blog/programming/install-python-on-windows", "title": ["Python latest version Installation & Setup Guide"], "h1": ["How to Install Python on Windows"]},
-{"url": "https://support.google.com/", "title": ["Google Help"], "h1": []}
+{"url": "https://en.wikipedia.org/wiki/Semantic_Web", "title": ["Semantic Web - Wikipedia"], "h1": ["Semantic Web"]},
+{"url": "https://www.researchgate.net/publication/333641514_Semantic_Web_Mining_Survey_and_Analysis", "title": ["(PDF) Semantic Web Mining: Survey and Analysis"], "h1": ["Semantic Web Mining Survey and Analysis"]},
+{"url": "https://support.google.com/", "title": ["Google Help"], "h1": []},
+{"url": "http://www.public.asu.edu/~hdavulcu/CSE591_Semantic_Web_Mining.html", "title": ["CSE591: Semantic Web Mining"], "h1": []},
+{"url": "https://www.researchgate.net/publication/257553431_Mining_the_Semantic_Web", "title": ["(PDF) Mining the Semantic Web"], "h1": ["Mining the Semantic Web"]},
+{"url": "https://www.slideshare.net/anilmlis/semantic-web-mining", "title": ["Semantic Web Mining"], "h1": []},
+{"url": "https://s3-us-west-2.amazonaws.com/ieeeshutpages/xplore/xplore-shut-page.html", "title": ["IEEE Xplore is temporarily unavailable"], "h1": ["IEEE ", " is temporarily unavailable"]}
 ]
